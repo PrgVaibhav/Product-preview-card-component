@@ -15,9 +15,6 @@
   }
 }
 @media (min-width: 1024px) and (max-width: 1200px) {
-  body {
-    background-color: aquamarine;
-  }
 
   .container {
     width: 58%;
@@ -39,9 +36,7 @@
 }
 
 @media (min-width: 769px) and (max-width: 1023px) {
-  body {
-    background-color: black;
-  }
+
   .container {
     width: 56%;
   }
@@ -72,9 +67,7 @@
 }
 
 @media (min-width: 469px) and (max-width: 768px) {
-  body {
-    background-color: brown;
-  }
+
   .container {
     width: 75%;
   }
@@ -96,9 +89,7 @@
 }
 
 @media (max-width: 468px) {
-  body {
-    background-color: blue;
-  }
+
   .container {
     grid-template-columns: repeat(1, auto);
     width: 85%;
